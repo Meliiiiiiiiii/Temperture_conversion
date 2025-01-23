@@ -1,6 +1,6 @@
 # **Temperature Conversion Program**
 
-### This C++ program is designed to convert temperatures between Celsius and Fahrenheit. The user is prompted to choose the unit they want to convert to (either Fahrenheit or Celsius), and the program performs the necessary conversion based on their input. It also handles invalid inputs gracefully.
+ This C++ program is designed to convert temperatures between Celsius and Fahrenheit. The user is prompted to choose the unit they want to convert to (either Fahrenheit or Celsius), and the program performs the necessary conversion based on their input. It also handles invalid inputs gracefully.
 
 ![temp](https://th.bing.com/th/id/R.2a2f489ab0b7e15c759ee0136927bfe0?rik=1kGObjLI8wBFVg&pid=ImgRaw&r=0)
 
